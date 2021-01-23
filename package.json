@@ -1,7 +1,7 @@
 {
   "name": "goit-react-hw-06-phonebook",
+  "homepage": "https://RaiderTs.github.io/goit-react-hw-06-phonebook",
   "version": "0.1.0",
-  "homepage": "https://github.com/RaiderTs/goit-react-hw-06-phonebook",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.0",

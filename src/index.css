@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+  color: #212121;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 40px;
+  /* background: url(./img/autumn-1649362_1920.jpg) */
+  background-image: linear-gradient( to right, rgba(232, 238, 181, 0.8), rgba(221, 224, 177, 0.8)), url(./img/autumn-1649362_1920.jpg);
+  font-style: italic;
+}
+
+img {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+
+ul,
+ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+label {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
